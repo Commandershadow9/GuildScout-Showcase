@@ -30,6 +30,11 @@
 
 ![Guild Management](screenshots/guild-management.png)
 
+### Guild Dashboard
+> Per-guild dashboard with interactive stats, rank distribution chart, real-time activity feed, and quick action grid.
+
+![Guild Dashboard](screenshots/guild-dashboard.png)
+
 ---
 
 ## Tech Stack
